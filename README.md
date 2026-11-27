@@ -4,77 +4,75 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:5B21B6,100:7C3AED&text=Bastian%20Gutiérrez&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Analista%20Programador%20%7C%20Desarrollador&descAlignY=58&descSize=17" />
 
-<h3>💻 Desarrollo web · Programación · Tecnología</h3>
+<h3>Desarrollo de software | Desarrollo web | Tecnología</h3>
 
 <p>
-  🚀 Transformando ideas en proyectos.<br/>
-  🌐 Creando experiencias digitales.<br/>
-  🧠 Aprendiendo algo nuevo cada día.<br/>
-  ⚡ Explorando nuevas tecnologías y soluciones.<br/>
-  🤖 Utilizando IA para optimizar procesos de desarrollo.<br/>
-  🔧 Experimentando, mejorando y optimizando código.<br/>
-  🎯 Siempre buscando nuevos desafíos.
+  Transformando ideas en proyectos digitales.<br/>
+  Desarrollando soluciones mediante programación.<br/>
+  Explorando nuevas tecnologías y herramientas.<br/>
+  Aplicando inteligencia artificial para optimizar procesos.<br/>
+  Mejorando continuamente mis habilidades técnicas.<br/>
+  Enfocado en el aprendizaje y la innovación.
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-🎓 Estudiante de **Analista Programador**.
+Estudiante de **Analista Programador**, interesado en el desarrollo de software y la creación de aplicaciones web.
 
-💻 Interesado en el desarrollo de software y aplicaciones web.
+Actualmente enfocado en fortalecer mis conocimientos de programación, bases de datos y desarrollo de soluciones digitales.
 
-🌱 Siempre aprendiendo y mejorando mis habilidades.
+Utilizo herramientas de Inteligencia Artificial como apoyo en el desarrollo de software, facilitando la resolución de problemas, optimización de código y automatización de tareas para mejorar la productividad y reducir tiempos de desarrollo.
 
-🤖 Utilizo herramientas de Inteligencia Artificial como apoyo en programación para optimizar tareas, explorar soluciones y reducir tiempos de desarrollo.
+Actualmente participando en proyectos académicos y personales.
 
-🚀 Actualmente trabajando en proyectos académicos y personales.
-
-📍 Chile 🇨🇱
+**Ubicación:** Chile
 
 ---
 
-## 💻 Tecnologías y lenguajes
+## Tecnologías y lenguajes
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,php,mysql,postgres,js,html,css&perline=8" />
 </p>
 
-## 🧰 Herramientas y plataformas
+## Herramientas y plataformas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,docker&perline=5" />
 </p>
 
-## 🤖 Desarrollo asistido por Inteligencia Artificial
+## Desarrollo asistido por Inteligencia Artificial
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Programación%20asistida%20por%20IA-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 </p>
 
-- Apoyo de IA en programación y resolución de problemas.
-- Optimización de código y asistencia en depuración.
-- Exploración de soluciones y mejora de flujos de trabajo.
-- Reducción de tareas repetitivas y tiempos de desarrollo.
+- Asistencia en programación y resolución de problemas.
+- Análisis, revisión y optimización de código.
+- Exploración de alternativas y soluciones técnicas.
+- Automatización de tareas y procesos repetitivos.
+- Optimización de flujos de trabajo y tiempos de desarrollo.
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-### 🌐 AlquimiWeb
+### AlquimiWeb
 
-Proyecto orientado a ofrecer servicios y soluciones digitales:
+Proyecto orientado al desarrollo y ofrecimiento de servicios digitales.
 
 - Desarrollo de páginas web personalizadas.
 - Optimización de sitios web.
-- Tutoriales y recursos sobre desarrollo web.
+- Creación de tutoriales y recursos sobre desarrollo web.
 - Soluciones digitales adaptadas a las necesidades de cada cliente.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -92,10 +90,11 @@ Proyecto orientado a ofrecer servicios y soluciones digitales:
 
 <div align="center">
 
-### 💡 Aprendiendo siempre. Creando siempre.
+### Aprendizaje continuo. Desarrollo constante.
 
-*«El aprendizaje nunca termina. Siempre hay algo nuevo por construir.»*
+*El conocimiento y la innovación son parte del proceso de construir mejores soluciones.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:5B21B6,100:111827&height=100&section=footer" />
 
 </div>
+
