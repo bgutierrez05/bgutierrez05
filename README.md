@@ -1,9 +1,20 @@
+
 <!-- ENCABEZADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Bastian%20Gutiérrez&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Analista%20Programador%20%7C%20Desarrollador&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:5B21B6,100:7C3AED&text=Bastian%20Gutiérrez&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Analista%20Programador%20%7C%20Desarrollador&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+GitHub;Desarrollo+web+y+programación;Desarrollo+asistido+por+IA;Aprendiendo+y+creando+cada+día" />
+<h3>💻 Desarrollo web · Programación · Tecnología</h3>
+
+<p>
+  🚀 Transformando ideas en proyectos.<br/>
+  🌐 Creando experiencias digitales.<br/>
+  🧠 Aprendiendo algo nuevo cada día.<br/>
+  ⚡ Explorando nuevas tecnologías y soluciones.<br/>
+  🤖 Utilizando IA para optimizar procesos de desarrollo.<br/>
+  🔧 Experimentando, mejorando y optimizando código.<br/>
+  🎯 Siempre buscando nuevos desafíos.
+</p>
 
 </div>
 
@@ -40,7 +51,7 @@
 ## 🤖 Desarrollo asistido por Inteligencia Artificial
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Programación%20asistida%20por%20IA-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programación%20asistida%20por%20IA-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 </p>
 
 - Apoyo de IA en programación y resolución de problemas.
@@ -67,13 +78,13 @@ Proyecto orientado a ofrecer servicios y soluciones digitales:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgutierrez05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgutierrez05&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgutierrez05&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgutierrez05&layout=compact&theme=midnight-purple&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=bgutierrez05&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=bgutierrez05&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -85,6 +96,6 @@ Proyecto orientado a ofrecer servicios y soluciones digitales:
 
 *«El aprendizaje nunca termina. Siempre hay algo nuevo por construir.»*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:5B21B6,100:111827&height=100&section=footer" />
 
 </div>
