@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Bastian</h1>
+<h1 align="center">¡Hola! 😎 Soy Bastian Gutiérrez</h1>
 
 <h3 align="center">💻 Analista Programador | Software Developer</h3>
 
@@ -28,14 +28,15 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,docker" />
 </p>
 
-### 📂 Proyectos destacados
+### 🚀 Projects
 
-**MarketPlus**
-- Sistema web de gestión comercial y ventas.
-- Backend PHP y base de datos MySQL.
-- Gestión de clientes, productos y ventas.
-- Trabajo colaborativo con Git y GitHub.
+**AlquimiWeb**
+- Desarrollo de páginas web personalizadas.
+- Servicios de optimización de sitios web.
+- Tutoriales y recursos sobre desarrollo web.
+- Soluciones digitales adaptadas a las necesidades de cada cliente.
 
+  
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
