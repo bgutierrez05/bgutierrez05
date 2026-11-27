@@ -16,10 +16,16 @@
 - 🚀 Trabajando en proyectos académicos y personales.
 - 📍 Chile 🇨🇱
 
-### 🛠️ Tecnologías y herramientas
+### 💻 Technologies & Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,django,mysql,html,css,js,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,mysql,postgres,js,html,css" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,docker" />
 </p>
 
 ### 📂 Proyectos destacados
